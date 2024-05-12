@@ -5,7 +5,7 @@ Certainly! Here's a template for your README file:
 
 # Yoga Pose Detection Model
 
-This repository contains a deep learning model for detecting yoga poses using the exception architecture of Convolutional Neural Networks (CNN). The model is trained to recognize various yoga poses from input images or videos.
+This repository contains a deep learning model for detecting yoga poses using the Xception architecture of Convolutional Neural Networks (CNN). The model is trained to recognize various yoga poses from input images or videos.
 
 ## Overview
 
@@ -34,7 +34,7 @@ To use the yoga pose detection model, follow these steps:
 
 ## Usage
 
-To detect yoga poses in real time, you can use the yoga.ipynb model or integrate the model into your own application.
+To detect yoga poses in real time, you can use the **yoga.ipynb** model or integrate the model into your own application.
 
 ## Contributing
 
